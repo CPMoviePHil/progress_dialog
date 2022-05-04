@@ -4,7 +4,7 @@ import 'package:progress_dialog/progress_dialog.dart';
 
 //import '../../lib/progress_dialog.dart';
 
-late ProgressDialog pr;
+
 
 void main() {
   runApp(MaterialApp(
@@ -13,6 +13,7 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
+  late ProgressDialog pr;
   double percentage = 0.0;
 
   @override
