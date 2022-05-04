@@ -12,7 +12,7 @@ A light weight package to show progress dialog. As it is a stateful widget, you 
 
 
 ## Supported Dart Versions
-**Dart SDK version >= 2.7.0**
+**Dart SDK version >= 2.16.0**
 
 
 ## Demo
