@@ -29,13 +29,13 @@ EdgeInsets _dialogPadding = const EdgeInsets.all(8.0);
 
 Widget _progressWidget = Image.asset(
   'assets/double_ring_loading_io.gif',
-  package: 'progress_dialog',
+  package: 'progress_dialog_2',
 );
 
-class ProgressDialog {
+class ProgressDialog2 {
   late _Body _dialog;
 
-  ProgressDialog(BuildContext context,
+  ProgressDialog2(BuildContext context,
       {ProgressDialogType? type,
         bool? isDismissible,
         bool? showLogs,
